@@ -1,7 +1,7 @@
 # clockSolver
 Clock solver for FFXIII-2 puzzles
 
-Once upon a TIME I was playing FF13-2 and decided I didn't want to be a human Turing machine for entertainment purposes, but instead I'd horry back to getting cheesed by ridiculous cheevo requirements, so instead I would let a computer work a computer problem and wrote this up.
+Once upon a TIME I was playing FF13-2 and decided I didn't want to be a human Turing machine for entertainment purposes, but instead I'd hurry back to getting cheesed by ridiculous cheevo requirements, so instead I would let a computer work a computer problem and wrote this up.
 
 The input is a comma-separated list of the numbers on the digits, clockwise from any starting point. The output is the order to visit the faces to solve the puzzle.
 
